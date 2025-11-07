@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b4b4db492de51f36a235abcb5b103a6676b7d5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca6367fe4ae42574e1738631cfa72ee15528e3da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
