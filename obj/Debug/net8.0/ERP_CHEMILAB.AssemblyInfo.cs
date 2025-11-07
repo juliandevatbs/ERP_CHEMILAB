@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b8e6b30a-d70c-4a60-9a87-329e7ec4ec9c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca6367fe4ae42574e1738631cfa72ee15528e3da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645fc337929e512c58f2f9cbb894786de44398f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERP_CHEMILAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
